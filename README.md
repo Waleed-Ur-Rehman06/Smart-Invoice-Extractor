@@ -22,7 +22,7 @@ Google API Key for the gemini 2.0 flash model.
 1.Clone the repository:
     ```bash
     git clone [https://github.com/Waleed-Ur-Rehman06/Smart-Invoice-Extractor.git]
-    cd Smart-Invoice-Extractor
+    cd invoice-extractor_
     ```
 
 2. Create a virtual environment(recommended):
