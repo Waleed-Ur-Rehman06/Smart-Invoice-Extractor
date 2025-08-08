@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#4CAF50" # A nice green
+backgroundColor="#F0F2F6" # Light grey background
+secondaryBackgroundColor="#FFFFFF" # White for components
+textColor="#333333" # Dark grey text
+font="sans serif"
+
+[global]
+disableWatchdogWarning = true
